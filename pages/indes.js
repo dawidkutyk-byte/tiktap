@@ -1,4 +1,3 @@
-```jsx
 <div style={{display:'flex',gap:8}}>
 <input className="input" placeholder="nazwa gifta (np. rose)" id="simGift" />
 <input className="input" placeholder="nick darczyńcy" id="simUser" />
@@ -52,4 +51,3 @@ simulateGift(gift, who)
 </div>
 )
 }
-```
